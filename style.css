@@ -1,0 +1,19 @@
+    nav {
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: large;
+    }
+	.navbar-nav > a{
+		padding-left:50px;
+		padding-right:50px;
+		margin-left:30px;
+		margin-right:30px;
+		color:#DB643C;
+
+	  }
+	  .mx-auto > a{
+		margin-left:30px;
+		margin-right:30px;
+		font-size:xx-large;
+		font-style:inherit;
+		color:#DB643C;
+	  }
